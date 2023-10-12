@@ -14,7 +14,9 @@ const httpLink = createHttpLink({
   uri: "/graphql",
 });
 const authLink = setContext((_, { headers }) => {
+  console.log(authLink)
   const token = localStorage.getItem("id_token");
+  console.log(token)
   return {
     headers: {
       ...headers,
@@ -30,11 +32,10 @@ const client = new ApolloClient({
 function App() {
   return (
     <>
-    <ApolloProvider client={client}>
-    <Navbar />
-      <Outlet />
-    </ApolloProvider>
-     
+      <ApolloProvider client={client}>
+        <Navbar />
+        <Outlet />
+      </ApolloProvider>
     </>
   );
 }
