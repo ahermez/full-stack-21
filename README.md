@@ -81,9 +81,9 @@ External APIs:
 
 
 # Project Reference
-
+[Heroku] <a href="https://when-i-was-21-35289fcd3882.herokuapp.com/">Deployment</a>
 [GitHub] <a href="https://github.com/ahermez/full-stack-21">Ahermez</a>
-[Netify] <a href="https://20-portfolio.netlify.app/">Ali's Porfolio</a>
+
 
 # Screen Shot Images
 
@@ -92,7 +92,9 @@ External APIs:
   </figure>
 
 # Contributors:
+Alicia Hermez
+[Netify] <a href="https://20-portfolio.netlify.app/">Ali's Porfolio</a>
+Rene Trevino
 
-Rene Trevino, UCB tutor
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it according to the terms of the license.
