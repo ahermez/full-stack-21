@@ -88,7 +88,7 @@ External APIs:
 # Screen Shot Images
 
 <figure>
-  <img src="./images\book.png" alt="Main Page" style="width:100%"> <figcaption><i>Main Page</i></figcaption>
+  <img src="images/book.png" alt="Main Page" style="width:100%"> <figcaption><i>Main Page</i></figcaption>
   </figure>
 
 # Contributors:
